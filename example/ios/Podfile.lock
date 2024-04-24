@@ -1,0 +1,58 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+  - KTVHTTPCache (3.0.1):
+    - CocoaAsyncSocket
+  - package_info_plus (0.4.5):
+    - Flutter
+  - video_cache (0.0.1):
+    - Flutter
+    - KTVHTTPCache (~> 3.0.0)
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - wakelock_plus (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+  - video_cache (from `.symlinks/plugins/video_cache/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/darwin`)
+  - wakelock_plus (from `.symlinks/plugins/wakelock_plus/ios`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - KTVHTTPCache
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+  video_cache:
+    :path: ".symlinks/plugins/video_cache/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/darwin"
+  wakelock_plus:
+    :path: ".symlinks/plugins/wakelock_plus/ios"
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  integration_test: 13825b8a9334a850581300559b8839134b124670
+  KTVHTTPCache: 7946d0f2c5e1ba2a7b0321fa35a1d01b380f23be
+  package_info_plus: 58f0028419748fad15bf008b270aaa8e54380b1c
+  video_cache: 7a9480227199531abaf8c1aa4fd5a7831b4a7a4c
+  video_player_avfoundation: 2b4384f3b157206b5e150a0083cdc0c905d260d3
+  wakelock_plus: 78ec7c5b202cab7761af8e2b2b3d0671be6c4ae1
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.11.3
