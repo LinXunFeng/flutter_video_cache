@@ -24,7 +24,7 @@ Import `video_cache` in files that it will be used:
 import 'package:video_cache/video_cache.dart';
 ```
 
-## Usage
+## 📚 Usage
 
 ```dart
 String url = 'https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4';
